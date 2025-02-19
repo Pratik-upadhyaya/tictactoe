@@ -4,7 +4,7 @@
 This is a simple Tic-Tac-Toe game built using **Jetpack Compose** in **Kotlin**. The game is designed for **two players**, allowing them to take turns marking **X** and **O** on a **3x3 grid**. The game detects winners, handles ties, and includes a restart button for a fresh game.
 
 ## 📸 Screenshots
-
+win, tie
 
 ## 🚀 Features
 - 🎨 **Modern UI** with a smooth gradient background.
