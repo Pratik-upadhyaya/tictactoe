@@ -6,6 +6,10 @@ This is a simple Tic-Tac-Toe game built using **Jetpack Compose** in **Kotlin**.
 ## 📸 Screenshots
 win, tie
 
+![Screenshot_20250219_203503](https://github.com/user-attachments/assets/c0363c0f-1187-4412-9fd4-d170cedbc736)
+![Screenshot_20250219_203544](https://github.com/user-attachments/assets/c551e3ec-dfb2-4147-9900-83ad8c78799e)
+![Screenshot_20250219_203617](https://github.com/user-attachments/assets/7397979c-8ce3-47fb-85ef-ac633ae6c51b)
+
 ## 🚀 Features
 - 🎨 **Modern UI** with a smooth gradient background.
 - 👥 **Two-Player Mode** (No AI, players take turns manually).
